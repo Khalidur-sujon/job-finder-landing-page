@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.sectionPadding {
+		@apply sm:p-16  px-6 py-12;
+	}
+}
