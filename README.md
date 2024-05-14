@@ -67,7 +67,7 @@ The production-ready files will be located in the .next directory. You can deplo
 - **public**: Static assets like images can be placed here.
 
 ## Live Preview
-
+https://job-finder-landing-page.vercel.app/
 
 ## Contributing
 I encourage contributions to make Job Finded even better! Feel free to create pull requests and follow the general coding guidelines for maintainability.
