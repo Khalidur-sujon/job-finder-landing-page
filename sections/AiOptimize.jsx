@@ -33,7 +33,7 @@ const AiOptimize = () => {
 				</div>
 			</div>
 			{/* SECTION-2 */}
-			<div className="flex  xs:flex-col-reverse  lg:flex-row gap-[20px] md:gap-[40px] justify-center items-center lg:justify-between">
+			<div className="flex  flex-col-reverse  lg:flex-row gap-[20px] md:gap-[40px] justify-center items-center lg:justify-between">
 				<div className="flex 1">
 					<img
 						src="/Illustration-2.png"
